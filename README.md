@@ -1,6 +1,5 @@
 ## Multispectral pedestrian detection challenge leaderboard setting for sejong rcv lab undergraduate research program (2025-summer)
 
----
 
 ## How to create a challenge on EvalAI?
 
