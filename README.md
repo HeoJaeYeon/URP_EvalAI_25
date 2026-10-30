@@ -1,3 +1,7 @@
+## Multispectral pedestrian detection challenge leaderboard setting for sejong rcv lab undergraduate research program (2025-summer)
+
+---
+
 ## How to create a challenge on EvalAI?
 
 If you are looking for a simple challenge configuration that you can replicate to create a challenge on EvalAI, then you are at the right place. Follow the instructions given below to get started.
